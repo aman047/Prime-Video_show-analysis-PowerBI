@@ -11,7 +11,7 @@ This Power BI project analyzes Amazon Prime's content catalog. It offers a visua
 
 ## 📂 Files in this Repository:
 - `amazon_prime_titles.xlsx`: The dataset sourced from Kaggle.
-- `amazon_dashboard.pdf`: Exported Power BI dashboard.
+- `PrimeVideoShowsAnalysis.pdf`: Exported Power BI dashboard.
   
 ## 📌 Tools Used:
 - Power BI (for data cleaning and visualization)
